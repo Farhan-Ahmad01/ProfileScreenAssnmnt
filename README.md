@@ -1,6 +1,6 @@
 UserProfileScreen in Dark Mode
 
-![Screenshot_20250519-044930](https://github.com/user-attachments/assets/541308b3-f396-4a87-b14f-06449921e983)
+![aaaabblight](https://github.com/user-attachments/assets/35e5ba79-2dd3-4aa2-a568-5542840551fd)
 
 UserProfileScreen in Light Mode
 
